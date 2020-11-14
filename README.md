@@ -3,8 +3,7 @@
 ## Downloading & Installing the Modpack
 **Download:**
 1. Download the UnosMasPack-1.0.0.zip archive
-2. Download and extract MultiMC: https://multimc.org/
-* Getting started guide: https://github.com/MultiMC/MultiMC5/wiki/Getting-Started
+2. Download and extract MultiMC: https://multimc.org/ | Getting started guide: https://github.com/MultiMC/MultiMC5/wiki/Getting-Started
 
 **Installing the Modpack on MultiMC**
 1. Click *Add Instanc* on the top navigation bar.
