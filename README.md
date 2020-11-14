@@ -8,6 +8,6 @@
 **Installing the Modpack on MultiMC**
 1. Click *Add Instance* on the top navigation bar.
 2. Select *Import from zip* on the left side of the modal.
-3. Select the *Browse* button and open the *UnosMasPack-1.0.0.zip* archive you downloaded earlier.
+3. Select the *Browse* button and open the *UnosMasPack-1.0.0.zip* archive you downloaded earlier. **NOTE:** when you download the repo you will need to extract the actual modpack zip archive to properly upload it to MultiMC.
 4. Click *Okay* and let the modpack create a new instance in MultiMC
 5. Your new UnoMasPack instance will be available to play. Just double click it to launch it!
