@@ -1,7 +1,7 @@
 # Uno Mas Modpack
 
 ## Downloading & Installing the Modpack
-**Download:
+**Download:**
 1. Download the UnosMasPack-1.0.0.zip archive
 2. Download and extract MultiMC: https://multimc.org/
    Getting started guide: https://github.com/MultiMC/MultiMC5/wiki/Getting-Started
